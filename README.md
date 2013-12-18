@@ -4,11 +4,15 @@ A community driven list of Dogecoin resources to be listed on dogecoin.com
 For any suggestions, please log an issue or submit a pull request.
 
 - [Dogecoin Resources](#dogecoin-resources)
+        - [Local portals](#local-portals)
 	- [Mining pools](#mining-pools)
 	- [Exchanges](#exchanges)
 	- [Trading Posts](#trading-posts)
 	- [Faucets](#faucets)
 	- [Games](#games)
+
+## Local portals
+- [Polish](http://dogecoins.pl/)
 
 ## Mining pools
 

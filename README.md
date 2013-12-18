@@ -37,6 +37,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [DogeCoinFaucet.com](http://dogecoinfaucet.com/)
 - [CryptoBucket Faucet](http://cryptobucket.com/dogefaucet.php)
 - [Dogecoin Faucet](http://185.38.47.229/faucet/)
+- http://dogefoode.bidouille.org/
 
 ## Games
 

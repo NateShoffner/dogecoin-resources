@@ -23,6 +23,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://doge.cryptovalley.com
 - http://pool.hostv.pl:9555
 - https://hashco.ws/stats.php
+- http://pool.paybtc.pl:9555/
 
 ## Exchanges
 

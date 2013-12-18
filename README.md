@@ -28,11 +28,13 @@ For any suggestions, please log an issue or submit a pull request.
 - http://pool.hostv.pl:9555
 - https://hashco.ws/stats.php
 - http://pool.paybtc.pl:9555/
+- http://pool.chunky.ms/
 
 ## Exchanges
 
 - [CoinedUp DOGE/BTC Exchange](https://coinedup.com/OrderBook?market=DOGE&base=BTC)
 - [Doges.org Exchange Forum](http://doges.org/index.php?board=3.0)
+- [Cryptsy](https://www.cryptsy.com/markets/view/132)
 
 ## Trading Posts
 

@@ -22,6 +22,7 @@ For any suggestions, please log an issue or submit a pull request.
 - http://miner.coinedup.com/doge
 - http://doge.cryptovalley.com
 - http://pool.hostv.pl:9555
+- https://hashco.ws/stats.php
 
 ## Exchanges
 

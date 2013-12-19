@@ -46,6 +46,7 @@ For any suggestions, please log an issue or submit a pull request.
 - [CryptoBucket Faucet](http://cryptobucket.com/dogefaucet.php)
 - [Dogecoin Faucet](http://185.38.47.229/faucet/)
 - http://dogefoode.bidouille.org/
+- [In Doge We Trust](http://indogewetrust.com/faucet)
 
 ## Games
 
